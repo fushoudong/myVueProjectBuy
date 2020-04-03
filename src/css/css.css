@@ -1,0 +1,16 @@
+* {
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+}
+.box {
+  width: 363px;
+  height: 530px;
+  background-image: url(../img/myFeiFei.jpg);
+  background-size: cover;
+  margin: 30px;
+}
+.container {
+  margin-top: 40px;
+}
