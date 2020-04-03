@@ -39,6 +39,6 @@ var router = new VueRouter({
       ]
     },
   ],
-  linkActiveClass: 'mui-active'
+  linkActiveClass: 'mui-active',  // 设置选中高亮
 });
 export default router
