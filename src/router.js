@@ -38,6 +38,7 @@ var router = new VueRouter({
 
       ]
     },
-  ]
+  ],
+  linkActiveClass: 'mui-active'
 });
 export default router

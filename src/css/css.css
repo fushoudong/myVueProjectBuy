@@ -2,7 +2,7 @@
   list-style: none;
   margin: 0px;
   padding: 0px;
-  text-decoration: none;
+  text-decoration: none !important;
 }
 .box {
   width: 363px;

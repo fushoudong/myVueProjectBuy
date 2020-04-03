@@ -9,6 +9,7 @@ import router from './router.js'  // 导入路由组件
 import 'bootstrap/dist/css/bootstrap.css';
 import './lib/mui/fonts/mui.ttf';
 import './lib/mui/css/mui.min.css';
+import './lib/mui/css/icons-extra.css'
 import './css/css.css';
 import { Header,Button,Tabbar,TabItem,Cell } from 'mint-ui'; // 按需导入mint-ui相关组件
 import 'mint-ui/lib/style.css'; // 导入样式，使其生效
